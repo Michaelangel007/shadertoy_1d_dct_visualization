@@ -6,4 +6,4 @@
 
 # Pictures
 
-* [1D DCT](pics/1d_dct.png)
+* ![1D DCT](pics/1d_dct.png)
