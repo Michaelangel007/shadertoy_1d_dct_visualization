@@ -1,6 +1,6 @@
 /*
 Visualization of 1D Discrete Cosine Transform (DCT) basis image
-https://www.shadertoy.com/view/4slfDf
+https://www.shadertoy.com/view/XdffWl
 
 Copyleft 2017
 Michaelangel007
