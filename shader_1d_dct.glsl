@@ -1,6 +1,6 @@
 /*
 Visualization of 1D Discrete Cosine Transform (DCT) basis image
-* https://www.google.com/search?q=dct+basis+images&tbm=isch
+https://www.shadertoy.com/view/4slfDf
 
 Copyleft 2017
 Michaelangel007
@@ -9,7 +9,10 @@ https://github.com/Michaelangel007/shadertoy_1d_dct_visualization
 NOTE: If you use parts of this shader please add a comment link so other people can find it. Thanks.
 
 References:
-http://download.nvidia.com/developer/presentations/2005/GDC/OpenGL_Day/OpenGL_Image_Processing_Tricks.pdf
+
+* http://download.nvidia.com/developer/presentations/2005/GDC/OpenGL_Day/OpenGL_Image_Processing_Tricks.pdf
+
+* https://www.google.com/search?q=dct+basis+images&tbm=isch
 
 */
 
