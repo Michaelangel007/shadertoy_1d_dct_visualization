@@ -6,7 +6,15 @@ Copyleft 2017
 Michaelangel007
 https://github.com/Michaelangel007/shadertoy_1d_dct_visualization
 
-NOTE: If you use parts of this shader please add a comment link so other people can find it. Thanks.
+DISCLAIMER:
+
+    You are free to use this code as you wish.
+
+    However, if you are going to copy/paste snippets of this code
+    on StackOverflow, StackExchange, Reddit, etc.
+    Please provide a link back to the original source
+    so that people can find updates and bugfixes.
+    Thanks!
 
 References:
 
